@@ -1,0 +1,2 @@
+# manifesto
+declaration of war
